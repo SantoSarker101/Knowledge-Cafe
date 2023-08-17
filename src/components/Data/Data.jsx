@@ -25,6 +25,8 @@ const Data = () => {
 		const newTime = [...countTime,blog]
 		setCountTime(newTime)
 		// console.log(countTime);
+
+		
 	}
 
 	return (
