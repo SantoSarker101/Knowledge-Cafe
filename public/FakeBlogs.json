@@ -1,0 +1,62 @@
+[
+    {
+       "id": 1,
+       "author": {
+          "name": "Prathan Chorruangsak",
+          "image": "https://media.istockphoto.com/id/1409838082/photo/positive-middle-aged-woman-holding-camera-and-taking-selfie-or-recording-stories-for-social.jpg?s=1024x1024&w=is&k=20&c=FbUNdVXU0mFIejjQdrmqy5m8Fj23r_dpYUfSs9-1090="
+       },
+       "title": "Introduction to Machine Learning",
+       "cover_image": "https://media.istockphoto.com/id/966248982/photo/robot-with-education-hud.webp?s=612x612&w=is&k=20&c=7XZqPrAflY4H7ifci-tt9YkCsaY9ieaiPJEIovoeQbQ=",
+       "read_time": 10 ,
+       "publish_date": "March 4,2023 (28 Days ago)",
+       "tags": [
+          "machine learning",
+          "artificial intelligence"
+       ]
+    },
+    {
+       "id": 2,
+       "author": {
+          "name": "fizkes",
+          "image": "https://media.istockphoto.com/id/1311634222/photo/portrait-of-successful-black-male-modern-day-student-holding-smartphone.jpg?s=612x612&w=is&k=20&c=p1PhfJHj2mjgWQJLGxRV14ODoccuVCYIh-o_yIZtaEc="
+       },
+       "title": "Future of Virtual Reality",
+       "cover_image": "https://media.istockphoto.com/id/1324380506/photo/people-with-vr-grasses-playing-virtual-reality-game-future-digital-technology-and-3d-virtual.jpg?s=612x612&w=is&k=20&c=jNIKSuFWR0VERhxj3O_occkiNl9fKVM_51-k_-sD3vY=",
+       "read_time": 5 ,
+       "publish_date": "March 8,2023 (24 Days ago)",
+       "tags": [
+          "virtual reality",
+          "artificial intelligence"
+       ]
+    },
+    {
+       "id": 3,
+       "author": {
+          "name": "Camelia jasika",
+          "image": "https://media.istockphoto.com/id/1340007678/photo/polite-elegant-customer-service-representative-in-large-corporation-sits-at-computer-tapping.jpg?s=612x612&w=is&k=20&c=V4dSzIHwnq-Hm4JPKqFQjBbJLSdE_w1xKNw4q59IXFY="
+       },
+       "title": "Apple Machine Learning Journal",
+       "cover_image": "https://media.istockphoto.com/id/1329808534/photo/communication-network-concept-robot-hand-3d-rendering.jpg?s=612x612&w=is&k=20&c=_rcAhqMpXMSDB9sWO0Brl00MFAUdc-OlDVSDvIypXS8=",
+       "read_time": 8  ,
+       "publish_date": "February 25 (34 Days ago)",
+       "tags": [
+          "machine learning",
+          "programming"
+       ]
+    },
+    {
+       "id": 4,
+       "author": {
+          "name": "Cristian Berrios",
+          "image": "https://media.istockphoto.com/id/597958694/photo/young-adult-male-student-in-the-lobby-of-a-university.jpg?s=612x612&w=is&k=20&c=oEno27pL3QqlA_V8ObfLPcUqVtC-pZZvCXdlaMWBu_o="
+       },
+       "title": "Difference between Software Development, Web Development and App Development",
+       "cover_image": "https://media.istockphoto.com/id/1474292406/photo/image-of-asian-man-designer-developing-a-new-app-design-and-user-interface-at-creative-office.jpg?s=612x612&w=is&k=20&c=Vz4dtz29idNxYArJug_e4LSWZcJ3k1kC24kyUlyPGYI=",
+       "read_time": 6,
+       "publish_date": "January 19 (2 Month ago)",
+       "tags": [
+          "software",
+          "programming"
+       ]
+    }
+ ]
