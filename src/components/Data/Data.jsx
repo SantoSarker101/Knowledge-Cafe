@@ -29,7 +29,8 @@ const Data = () => {
 
 	return (
 		<div>
-			<div className="flex justify-evenly">
+			<div className="flex flex-col justify-center lg:justify-evenly lg:flex-row md:justify-evenly md:flex-row">
+
 				<div>
 					{
 						blogs.map(blog => <SingleData blog={blog} blogs = {blogs} SpentTime = {SpentTime} handleReadTime = {handleReadTime} ></SingleData>)
@@ -40,11 +41,11 @@ const Data = () => {
 
 				<div className='relative'>
 
-				<div className='border border-blue-500 py-7 px-20 sticky top-0'>
+					<div className='border border-blue-500 py-7 px-20 sticky top-0'>
 
-					<Dynamic totalTime = {totalTime} countTime = {countTime} ></Dynamic>
+						<Dynamic totalTime = {totalTime} countTime = {countTime} ></Dynamic>
 
-				</div>
+					</div>
 
 				</div>
 			</div>

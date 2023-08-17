@@ -13,7 +13,7 @@ const Dynamic = ({totalTime,countTime}) => {
 		<div>
 			<h3 className='bg-green-900 text-white p-3 rounded'>Spent time on read : {total} min</h3>
 
-			<p className='bg-green-900 text-white p-3 rounded my-3'>Bookmarked Blogs : {countTime.length}</p>
+			<p className='bg-red-950 text-white p-3 rounded my-3'>Bookmarked Blogs : {countTime.length}</p>
 
 			<p className='text-center underline text-red-700 font-bold'>Names</p>
 
